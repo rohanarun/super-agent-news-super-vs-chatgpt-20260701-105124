@@ -1,0 +1,31 @@
+{
+  "citations": [
+    "[securityweek.com](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)",
+    "[thehackernews.com](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)",
+    "[aichatdaily.com](https://www.aichatdaily.com/ai-security/bioshocking-attack-jailbreaks-six-ai-browsers-convincing-them)",
+    "[en.softonic.com](https://en.softonic.com/)",
+    "[androidauthority.com](https://www.androidauthority.com/)",
+    "[techradar.com](https://www.techradar.com/)",
+    "[openai.com](https://openai.com/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/)"
+  ],
+  "design_plan": "rng=42;AIDA=pass;hero_math=1120px/2-3 lines;density=grid-auto-flow:dense verified;labels=sweep ok;buttons=contrast pass",
+  "generated_at": "2026-07-01T10:51:32.171144+00:00",
+  "headline": "Super vs ChatGPT \u2014 Personal AI Agents for Real Computer Work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is a world\u2011class conversational assistant evolving toward automation and agents. Super is built for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time. This page fairly compares what ChatGPT is best at today, where its new Scheduled Tasks fit, and why Super is the sharper alternative for durable, repeated computer-use work."
+}
